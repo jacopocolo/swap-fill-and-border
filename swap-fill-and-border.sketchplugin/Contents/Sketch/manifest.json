@@ -1,0 +1,23 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd+alt+F",
+      "name" : "Swap",
+      "identifier" : "swapFillAndBorder"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "swapFillAndBorder",
+    ],
+    "title" : "Swap fill and border ⇅"
+  },
+  "identifier" : "com.jacopocolo.invertFillAndBorder",
+  "version" : "0.0.1",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "Swap fill and border"
+}
